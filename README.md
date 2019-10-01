@@ -20,6 +20,7 @@ ___
 ___
 <br />
 <br />
+<br />
 
 ### Search for courses
 
