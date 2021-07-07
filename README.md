@@ -1,4 +1,4 @@
-# myFFCS redefined
+# MYFFCS redefined
 
 ## Create your timetable hassle free and carry it across devices
 
